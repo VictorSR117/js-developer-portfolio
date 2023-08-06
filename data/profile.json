@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
+  "name": "Victor Luiz lopes da Silva",
+  "photo": "https://media.licdn.com/dms/image/D4D03AQG-vOxlzSrgpA/profile-displayphoto-shrink_800_800/0/1665164536010?e=1697068800&v=beta&t=zO71oTt4k7AE1iT4__3z6487o7b5JHGtUwmKF2EDnbY",
+  "job": "Desenvolvedor Front End",
   "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "phone": "(11) 98323-8181",
+  "email": "victor.silva208@fatec.sp.gov.br",
   "skills": {
     "hardSkills": [
       {
@@ -33,46 +33,84 @@
       }
     ],
     "softSkills": [
-      "Empatia",
+      "Concentração",
       "Liderança",
       "Trabalho em equipe",
-      "Flexibilidade",
+      "Perfeccionismo",
       "Organização"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (intermediário)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "ToDo List para gerenciar tarefas",
+      "url": "https://victorsr117.github.io/ToDo-React/",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Site básico para um centro médico",
+      "url": "https://medicenter-projectt.netlify.app",
+      "github": false
+    },
+    {
+      "name": "One Page criada com bootstrap",
+      "url": "https://one-page-layoutt.netlify.app",
+      "github": false
+    },
+    {
+      "name": "site clone do StarBucks",
+      "url": "https://starbucks-projectt.netlify.app",
+      "github": false
+    },
+    {
+      "name": "site para vendas de livro",
+      "url": "https://awax-projectt.netlify.app",
+      "github": false
+    },
+    {
+      "name": "Currículo feito com html e css",
+      "url": "https://victorsr117.github.io/CurriculumVitae/",
+      "github": true
+    },
+    {
+      "name": "Quizz em formato de Buz feed",
+      "url": "https://github.com/VictorSR117/BuzzFeed/tree/main/projeto-buzzfeed",
+      "github": true
+    },
+    {
+      "name": "Simulação de um blog básico",
+      "url": "https://github.com/VictorSR117/blog",
+      "github": true
+    },
+    {
+      "name": "Site de Artesanato feito como projeto de faculdade",
+      "url": "https://victorsr117.github.io/ArtTech/",
+      "github": true
+    },
+    {
+      "name": "Conteúdos de JavaScript estudados na DIO",
+      "url": "https://github.com/VictorSR117/JSDigialInovationOne",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Desenvolvedor Front End (estágio)",
+      "period": "2022 - 2023",
+      "description": "realizar o desenvolvimento de sites, blogs e Landing Pages, bem como a manutenção em aplicações ja esxistentes."
     },
     {
-      "name": "Software Engineering Lead / DIO",
+      "name": "Qa Tester (estágio)",
+      "period": "2022 - 2022",
+      "description": "Atuar como Tester realizando os testes funcionais e não funcionais de softwares."
+    },
+    {
+      "name": "Educador (estágio)",
       "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "description": "Atuação como educador para correção de apostilas, fixação de conteúdos e resolução de duvidas, bem como manutenção da sala de aula."
     }
   ]
 }
